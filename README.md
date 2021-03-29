@@ -1,4 +1,4 @@
-# biasmonitor
+# Bias Monitor
 
 A Python application for running crude comparisons between user data for two Spotify listeners.
 
